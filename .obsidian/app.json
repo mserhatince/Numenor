@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "6 - Main Notes",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "showLineNumber": false
 }
